@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40alexandra.zavala%2Fai-engineer-software-engineer-or-full-stack-developer-which-path-should-i-take-4d7532bd9194&psig=AOvVaw3MUqfZPCT61QWe347fS5ci&ust=1737470993717000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi0pYTGhIsDFQAAAAAdAAAAABAE)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*pvC5_2yes_9rHeHm.png)
 <h1 align="center">Hi 👋, I'm Şeyma Kulak</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
