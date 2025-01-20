@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*pvC5_2yes_9rHeHm.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*pvC5_2yes_9rHeHm.png)
 <h1 align="center">Hi 👋, I'm Şeyma Kulak</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
