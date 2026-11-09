@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/736x/b3/d8/49/b3d849f07f32ca43fbb227b96a97464e.jpg)
 
-<h1 align="center">Hi 👋, I'm Şeyma</h1>
+<h1 align="center">Hi 👋, I'm Şeyma.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sseymakulak&label=Profile%20views&color=0e75b6&style=flat" alt="sseymakulak" /> </p>
 
 - 🔭 I’m currently working on **AI**
